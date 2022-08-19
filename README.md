@@ -1,2 +1,2 @@
 # Parta-Learning-Training
-Ansys Dattabase
+Ansys Database
